@@ -1,7 +1,9 @@
 ***Bitcoin Inscribed Monke Pics (BIMP's)***
-# Table of contents
+<figure><img src=".gitbook/assets/Group 75.png" alt=""><figcaption><p>Solana's #1 immutable BTC NFT's</p></figcaption></figure>
 
-## Pre-Requisites
+## Table of contents
+
+### Pre-Requisites
 
 * [Bitcoin Whitepaper](https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging\_Tech\_Bitcoin\_Crypto.pdf)
 * [Bitcoin Ordinals](https://docs.ordinals.com/)
@@ -26,6 +28,3 @@
   * [Trading Artefacts](infrastructure/artefact-standard/trading-artefacts.md)
   * [Artefact Github](https://github.com/2112-Foundation/artefact)
 * [🔓 Ordinal Vaults](infrastructure/ordinal-vaults.md)
-
-<figure><img src=".gitbook/assets/Group 75.png" alt=""><figcaption><p>Solana's #1 immutable BTC NFT's</p></figcaption></figure>
-
