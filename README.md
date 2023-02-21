@@ -1,18 +1,31 @@
----
-description: An Overview of the BIMP Digital Artefact Deployment.
----
+***Bitcoin Inscribed Monke Pics (BIMP's)***
+# Table of contents
 
-# 👋 Introduction to BIMP
+## Pre-Requisites
 
-"BIMP's" are 512 provably unique **collectible artefacts** with _proof of ownership_ inscribed onto the **Bitcoin network.** BIMP's will live as part of the core archive for Bitcoin Nodes for _as long as the network persists._&#x20;
+* [Bitcoin Whitepaper](https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging\_Tech\_Bitcoin\_Crypto.pdf)
+* [Bitcoin Ordinals](https://docs.ordinals.com/)
 
-Each BIMP represents an 'ordinal' satoshi, a sub-denomination unit of Bitcoin's native currency $BTC. They we're created using Ordinal Theory to inscribe the 24x24 canvas artworks directly into blocks. To discover more about 'ordinal theory' click here.&#x20;
+## fundamentals
 
-{% hint style="success" %}
-BIMP's were launched in Q1 2023.
-{% endhint %}
+* [👋 Introduction to BIMP](README.md)
+* [🔎 Artefact Provenance](fundamentals/artefact-provenance.md)
+* [⚖ Image Licensing](fundamentals/image-licensing.md)
+* [📖 Litepaper](fundamentals/litepaper.md)
+* [🏛 Governance](fundamentals/governance/README.md)
+  * [Structure](fundamentals/governance/structure.md)
+  * [BCP's (Proposals)](fundamentals/governance/bcps-proposals.md)
+  * [Example BCP - BCP#E](fundamentals/governance/example-bcp-bcp-e.md)
 
-We created BIMPs to represent the power of cross-chain denomination - leveraging the sovereignty of Bitcoin with the high-performance, high-throughput network "Solana". Our theory predicts Sovereign Digital Assets having cross-chain denominations in cluster groups known as trusted governance environments (TGE)&#x20;
+## Infrastructure
+
+* [🟠 Bitcoin Full-Node](infrastructure/bitcoin-full-node.md)
+* [🟢 PoS Treasury (SOL)](infrastructure/pos-treasury-sol.md)
+* [🪨 Artefact Standard](infrastructure/artefact-standard/README.md)
+  * [Integrating Artefact](infrastructure/artefact-standard/integrating-artefact.md)
+  * [Trading Artefacts](infrastructure/artefact-standard/trading-artefacts.md)
+  * [Artefact Github](https://github.com/2112-Foundation/artefact)
+* [🔓 Ordinal Vaults](infrastructure/ordinal-vaults.md)
 
 <figure><img src=".gitbook/assets/Group 75.png" alt=""><figcaption><p>Solana's #1 immutable BTC NFT's</p></figcaption></figure>
 
